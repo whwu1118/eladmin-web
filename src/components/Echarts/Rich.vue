@@ -90,7 +90,7 @@ export default {
               normal: {
                 formatter: '{a|{a}}{abg|}\n{hr|}\n  {b|{b}：}{c}  {per|{d}%}  ',
                 backgroundColor: '#eee',
-                borderColor: '#aaa',
+                borderColor: '#license',
                 borderWidth: 1,
                 borderRadius: 4,
                 shadowBlur: 3,
@@ -112,7 +112,7 @@ export default {
                     borderRadius: [4, 4, 0, 0]
                   },
                   hr: {
-                    borderColor: '#aaa',
+                    borderColor: '#license',
                     width: '100%',
                     borderWidth: 0.5,
                     height: 0
